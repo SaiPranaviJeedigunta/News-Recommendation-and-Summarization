@@ -43,4 +43,4 @@ Contributions to enhance the recommendation algorithms, add new features, or fix
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the LICENSE file for details.
+This project is licensed under the [MIT License]. See the LICENSE file for details.
